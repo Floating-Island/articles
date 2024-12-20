@@ -4,7 +4,7 @@ This is a series of consideration articles on testing C++ classes with UE4:
 
 - [Part I: Worlds, Ticks and Forces](https://github.com/Floating-Island/articles/blob/main/Considerations%20On%20Testing%20UE4%20Classes%20Part%20I%20-%20Worlds%2C%20Ticks%20and%20Forces.md)
 - Part II: Editor Clicks and gamepad/keyboard button presses
-- [Part III: Replication](https://unrealcommunity.wiki/considerations-on-testing-ue4-classes:-part-iii-replication-2d68d4)
+- [Part III: Replication](https://github.com/Floating-Island/articles/blob/main/Considerations%20On%20Testing%20UE4%20Classes%20Part%20III%20-%20Replication.md)
 
 Hi, I’m going to show you how I’ve been doing editor clicks and gamepad/keyboard button pressing when testing UE4 C++ classes!
 
